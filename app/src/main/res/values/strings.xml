@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+    <string name="scan">扫描歌曲</string>
+    <string name="list_empty">列表为空</string>
+    <string name="activity_main">本地音乐</string>
+    <string name="help">帮助</string>
+    <string name="message_need_permission">需要权限</string>
+    <string name="cancel">取消</string>
+    <string name="setting">设置</string>
+    <string name="button_allow">允许</string>
+    <string name="button_deny">拒绝</string>
+    <string name="refresh">刷新</string>
+</resources>
